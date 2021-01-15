@@ -18,3 +18,36 @@ h1 {
     color: white;
 
 }
+
+video {
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    font-weight: 300;
+    color: white;
+    font-size: 42px;
+    text-align: center;
+}
+
+P {
+    color: gray;
+    font-size: 21px;
+    
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+
+}
+
+section {
+    text-align: center;
+}
+
+
+footer {
+    text-align: right;
+}
